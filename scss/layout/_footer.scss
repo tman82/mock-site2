@@ -1,0 +1,85 @@
+.left-foot {
+  h3 {
+    margin-bottom: -11px;
+    color: #ff6011;
+  }
+  .form-group {
+
+    .input-left {
+      margin-right: 21px;
+      margin-bottom: 15px;
+    }
+
+    .f-left {
+
+      float: left;
+      margin-top: 15px;
+    }
+
+    .p-left {
+      background-color: #f8f8f8;
+      border: solid 1px #eee !important;
+      padding-left: 10px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      box-sizing: border-box;
+      box-sizing: content-box;
+    }
+
+    .ta {
+      color: #8c8c8c;
+      background-color: #f8f8f8;
+    }
+
+    .submit-button {
+      border-radius: 1px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      width: 110px;
+      background-color: #ff6011;
+      color: #fff;
+      font-weight: 600;
+    }
+  }
+}
+
+
+.right-foot {
+  h3 {
+    margin-bottom: -11px;
+    color: #ff6011;
+  }
+  .right-foot p {
+    font-size: 15px;
+  }
+
+  .address-p {
+    margin-top: -8px;
+  }
+
+  .arg-p {
+    margin-top: -14px;
+    margin-bottom: 14px;
+  }
+
+  .phone-p {
+    margin-top: 5px;
+  }
+
+  .fax-p {
+    margin-top: -14px;
+    margin-bottom: 87px;
+  }
+
+
+.icon-list {
+  margin-left: -40px;
+  li {
+    display: inline-block;
+    margin-right: 6px;
+  }
+}
+
+}

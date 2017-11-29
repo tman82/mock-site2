@@ -1,0 +1,78 @@
+body {
+  margin: 0px;
+.nav-div {
+  font-family: 'bebas', sans-serif;
+  background-color: #f8f8f8;
+  margin-bottom: 50px;
+    .top-head {
+      padding-top: 10px;
+      padding-left: 330px;
+      padding-right: 340px;
+      background-color: #ff6011;
+      .top-list {
+        li {
+          font-size: 18px;
+          display: inline-block;
+          .push-right {
+            margin-right: 200px;
+          }
+        }
+        .r-space {
+          /* #ba460d */
+          color: #ba4003;
+          margin-right: 5px;
+        }
+      }
+    }
+
+    .bottom-head {
+      background-color: #f8f8f8;
+
+      .navbar {
+        border: none !important;
+        margin-bottom: 34px;
+
+        .navbar-brand {
+          font-size: 44px;
+        }
+        .t2 {
+          font-weight: 700;
+          color: #474747;
+        }
+      }
+    }
+
+}
+
+}
+
+
+
+
+
+/* ========== Responsive breakpoints ========= */
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (max-width : 320px) {
+
+}
+
+@media only screen and (max-width: 480px) {
+  .top-head {
+
+  }
+}
+
+@media only screen and (max-width: 767px) {
+
+}
+
+@media only screen and (min-width: 1199px) {
+  .bottom-head {
+    margin-top: 50px;
+  }
+}
+
+@media only screen and (max-width: 1999px) {
+
+}
